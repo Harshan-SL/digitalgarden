@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/"}
+{"dg-publish":true,"permalink":"/Homepage/"}
 ---
 
 this is the homepage of harshan
